@@ -1,23 +1,44 @@
 # Ranger Tracker – Operational Analytics Dashboard
 
-This repository contains Power BI dashboards built on RangerTrackerDB to provide
-executive-level insight into operational ticket data.
+This repository contains the Power BI analytics solution built on the RangerTrackerDB to provide operational insights into ticket data.
+
+## Overview
+
+This Power BI project visualizes ticketing data including:
+
+- Open vs Resolved ticket breakdown
+- Ticket volume by priority and type
+- Monthly trends in opened and closed tickets
+
+The dashboards help leadership quickly understand workload, status, and trends.
 
 ## Tools & Technologies
-- Power BI
-- DAX
-- PostgreSQL
-- Data Modeling & Visualization
 
-## Dashboard Features
-- Open vs. Resolved ticket analysis
-- Ticket volume by priority and type
-- KPI summaries for operational workload
-- Cleaned and standardized ticket data
+- **Power BI Desktop**
+- **DAX**
+- **PostgreSQL** (RangerTrackerDB)
+- **Data modeling**
+- **Data visualization best practices**
 
-## Data Source
-RangerTrackerDB (application database)
+## Contents
+
+- `RangerTracker_Analytics.pbix` – Power BI report file
+- `/screenshots/` – Sample visual exports showing key dashboard pages
 
 ## Screenshots
 
-<img width="1948" height="1082" alt="Ranger Tracker – Operational Analytics Dashboard" src="https://github.com/user-attachments/assets/6c87798b-78a7-4c6d-972e-6640889ff925" />
+**Dashboard Overview**
+<img width="1948" height="1082" alt="Ranger Tracker – Operational Analytics Dashboard" src="https://github.com/user-attachments/assets/df35ead8-6c32-4eed-a34e-f877fc41cc53" />
+
+**Tickets by Priority**
+<img width="545" height="357" alt="tickets_by_priority" src="https://github.com/user-attachments/assets/1fb9a6d7-c48d-4e7f-8879-098f7ff0803d" />
+
+## Usage
+
+1. Download the `.pbix` file  
+2. Open with **Power BI Desktop**  
+3. Connect to a copy of the RangerTrackerDB for live data refresh
+
+## License
+
+This project is licensed under the MIT License.

@@ -7,8 +7,8 @@ This repository contains the Power BI analytics solution built on the RangerTrac
 This Power BI project visualizes ticketing data including:
 
 - Open vs Resolved ticket breakdown
+- Total ticket count
 - Ticket volume by priority and type
-- Monthly trends in opened and closed tickets
 
 The dashboards help leadership quickly understand workload, status, and trends.
 
@@ -27,10 +27,10 @@ The dashboards help leadership quickly understand workload, status, and trends.
 
 ## Screenshots
 
-**Dashboard Overview**
+
 <img width="1948" height="1082" alt="Ranger Tracker – Operational Analytics Dashboard" src="https://github.com/user-attachments/assets/df35ead8-6c32-4eed-a34e-f877fc41cc53" />
 
-**Tickets by Priority**
+
 <img width="545" height="357" alt="tickets_by_priority" src="https://github.com/user-attachments/assets/1fb9a6d7-c48d-4e7f-8879-098f7ff0803d" />
 
 ## Usage

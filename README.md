@@ -22,8 +22,8 @@ The dashboards help leadership quickly understand workload, status, and trends.
 
 ## Contents
 
-- `RangerTracker_Analytics.pbix` – Power BI report file
-- `/screenshots/` – Sample visual exports showing key dashboard pages
+- Power BI report file
+- Sample visual exports showing key dashboard pages
 
 ## Screenshots
 

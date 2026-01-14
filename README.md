@@ -10,6 +10,8 @@ This Power BI project visualizes ticketing data including:
 - Total ticket count
 - Ticket volume by priority and type
 
+<img width="1948" height="1082" alt="Ranger Tracker – Operational Analytics Dashboard" src="https://github.com/user-attachments/assets/df35ead8-6c32-4eed-a34e-f877fc41cc53" />
+
 The dashboards help leadership quickly understand workload, status, and trends.
 
 ## Tools & Technologies
@@ -24,14 +26,6 @@ The dashboards help leadership quickly understand workload, status, and trends.
 
 - Power BI report file
 - Sample visual exports showing key dashboard pages
-
-## Screenshots
-
-
-<img width="1948" height="1082" alt="Ranger Tracker – Operational Analytics Dashboard" src="https://github.com/user-attachments/assets/df35ead8-6c32-4eed-a34e-f877fc41cc53" />
-
-
-<img width="545" height="357" alt="tickets_by_priority" src="https://github.com/user-attachments/assets/1fb9a6d7-c48d-4e7f-8879-098f7ff0803d" />
 
 ## Usage
 
